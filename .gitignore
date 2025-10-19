@@ -1,0 +1,68 @@
+# ═══════════════════════════════════════════════════════════
+#  Red Eye Mobile - .gitignore
+#  Developer: Akhatkulov
+# ═══════════════════════════════════════════════════════════
+
+# Gradle files
+.gradle/
+build/
+gradle-wrapper.jar
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+.DS_Store
+.externalNativeBuild
+.cxx
+
+# Generated files
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Keystore files (IMPORTANT: Keep secure!)
+*.keystore
+*.jks
+release-key.keystore
+
+# Configuration files with sensitive data
+.builder_config
+app/src/main/java/com/redeye/parentalmonitor/utils/AutoConfig.kt
+
+# Output directory
+output/
+
+# Logs
+*.log
+crash_log.txt
+logcat.txt
+
+# Test files
+app/src/test/
+
+# Kotlin and Java
+*.class
+*.jar
+*.war
+*.ear
+bin/
+gen/
+
+# Backup files
+*.bak
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lint
+lint-results.html
+lint-results.xml
